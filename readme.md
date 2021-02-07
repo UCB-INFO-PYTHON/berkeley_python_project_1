@@ -40,6 +40,9 @@ AlphaBeta AI: makes a move depending on the board evaluation function at the lea
 AlphaBeta AI depth+1 : same as AlphaBeta AI, but searches to 3 moves ahead.  Each move takes 5-20 seconds at a time and is a bit more challenging to play.
 
 ## Movement
+
+<img src="board.png" alt="screenshot of board" style="height: 400px; width:640px;"/>
+
 On your turn, type in the command as a four letter sequence with no spaces, in the format [a-h][1-8][a-h][1-8].  For instance, if you want to move the piece on coordinate 'e2' to 'e4', you can simply type 'e2e4'
 
 The program will automatically determine if the move is valid based on what piece is selected on the cell and the state of the board.  If you get a message 'Invalid Move', make sure you have the right coordinates and that your move will not result in the King being captured.
