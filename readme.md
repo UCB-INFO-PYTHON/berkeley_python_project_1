@@ -1,4 +1,12 @@
-# Peter's Chess
+# Console Chess with AI
+
+Author: Peter (Young Ha) Kim
+
+Semester: Fall 2020
+
+Contact information: peter.kim@ischool.berkeley.edu 
+
+## Program Overview
 
 A simple console chess program with Human vs AI (Minimax with Alpha-Beta pruning, or just Random AI).   Also supports a demo mode of Random AI vs Minimax AI
 
@@ -12,11 +20,11 @@ python ./main.py
 
 ## Usage
 
-0. System: Developed and run under Windows 10, Python 3.8.  I have also tested on MacOS.  Not sure if it will run on linux.
+1. OS: Built for Windows 10, Python 3.8.  I have also tested on MacOS.  Not sure if it will run on linux.
 
-1. Screen fonts:  It is recommended to enlarge the font size to at least 16 points for the chess pieces to be well visible (or enlarge screen using Command+ on Mac).  Depending on the system and the font, the bishop and pawn may look very similar.  
+2. Screen fonts:  It is recommended to enlarge the font size to at least 16 points for the chess pieces to be well visible (or enlarge screen using Command+ on Mac).  Depending on the system and the font, the bishop and pawn may look very similar.  
 
-2. You can choose between 6 different modes of play:
+3. You can choose between 6 different modes of play:
 
 * 1. Human vs Human
 * 2. Human vs Random AI
