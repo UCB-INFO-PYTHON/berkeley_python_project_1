@@ -4,7 +4,7 @@ Author: Peter (Young Ha) Kim
 
 Semester: Fall 2020
 
-Contact information: peter.kim@ischool.berkeley.edu 
+Contact information: vasthorizon@gmail.com
 
 ## Program Overview
 
